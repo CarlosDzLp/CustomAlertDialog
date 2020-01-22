@@ -1,0 +1,13 @@
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/bin/Debug/netstandard2.0/CustomAlertDialog.deps.json
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/bin/Debug/netstandard2.0/CustomAlertDialog.dll
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/bin/Debug/netstandard2.0/ref/CustomAlertDialog.dll
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/bin/Debug/netstandard2.0/CustomAlertDialog.pdb
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/CustomAlertDialog.csprojAssemblyReference.cache
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/CustomAlertDialog.AssemblyInfoInputs.cache
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/CustomAlertDialog.AssemblyInfo.cs
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/CustomAlertDialog.dll
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/ref/CustomAlertDialog.dll
+/Users/carlosdiaz/Projects/CustomAlertDialog/CustomAlertDialog/obj/Debug/netstandard2.0/CustomAlertDialog.pdb

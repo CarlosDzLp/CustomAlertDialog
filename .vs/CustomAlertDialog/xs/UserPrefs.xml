@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6F64F8F6-6D49-4FA4-89A1-BD75E31C57D4}|Default">
+  <MonoDevelop.Ide.ItemProperties.CustomAlertDialog.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomAlertDialog/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CustomAlertDialog/MainPage.xaml.cs" Line="29" Column="10" />
+      <File FileName="CustomAlertDialog/MainPage.xaml" Line="12" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomAlertDialog" expanded="True">
+            <Node name="CustomAlertDialog" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomAlertDialog.Android AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.huawei" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
